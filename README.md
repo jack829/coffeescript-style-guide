@@ -43,11 +43,11 @@ The details in this guide have been very heavily inspired by several existing st
     * [Annotations](#annotations)
     * [Miscellaneous](#miscellaneous)
 
-<a name="code_layout"/>
 ## Code layout
+<a name="code_layout"></a>
 
-<a name="tabs_or_spaces"/>
 ### Tabs or Spaces?
+<a name="tabs_or_spaces"></a>
 
 Use **spaces only**, with **2 spaces** per indentation level. Never mix tabs and spaces.
 
